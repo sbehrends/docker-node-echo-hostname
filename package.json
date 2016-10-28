@@ -4,7 +4,7 @@
   "description": "Simple NodeJS App that prints on HTTP container hostname. Intended for Load Balancing test purposes",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
